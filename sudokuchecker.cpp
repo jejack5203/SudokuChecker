@@ -4,8 +4,6 @@
 #include <string.h>
 
 
-//#define FILE_NAME "wss.txt"
-
 #define MATRIX_SIZE 81 // size of sudoku
 #define HEIGHT 9
 #define WIDTH 9
